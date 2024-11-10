@@ -1,4 +1,4 @@
-# Roblox Verification
+# Simple OpenAI Discord Chatbot
 A simple and straightforward Discord Chatbot powered by OpenAI
 
 # Installation
